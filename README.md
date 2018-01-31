@@ -1,1 +1,3 @@
-# binance-scraper \nA Binance exchange monitor built in go
+# binance-scraper 
+
+A Binance exchange monitor built in go
